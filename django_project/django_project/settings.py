@@ -1,3 +1,5 @@
+import os
+
 """
 Django settings for django_project project.
 
@@ -123,6 +125,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# The full path to a directory where we want django to store uploaded files
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+MEDIA_URL = '/media/'
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
@@ -133,3 +140,6 @@ CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap4"
 CRISPY_TEMPLATE_PACK = "bootstrap4"
 
 LOGIN_REDIRECT_URL = 'techblog-home'
+
+# login required redirect
+LOGIN_URL = 'login'
