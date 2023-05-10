@@ -12,8 +12,20 @@ ul {
   margin: 0;
 }
 
-.bg-steel {
+/* .bg-steel {
   background-color: #5f788a;
+} */
+
+.bg-steel {
+  background-color: #6E6E6E;
+}
+
+.profile-link {
+  color: #6E6E6E;
+}
+
+.profile-link:hover, .profile-link:focus {
+  color: #428bca !important;
 }
 
 .site-header .navbar-nav .nav-link {
