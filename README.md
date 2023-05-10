@@ -4,7 +4,7 @@ It's platform features invaluable tips and insights from seasoned developers, al
 coding skills and take your projects to the next level. 
 
 # Screenshot of Home Page
-- ![disrupt home page](https://github.com/OsimFavour/disrupt/assets/95959056/732a3a46-74be-473d-8d30-4c39f7ce7d7b)
+ ![disrupt home page](https://github.com/OsimFavour/disrupt/assets/95959056/732a3a46-74be-473d-8d30-4c39f7ce7d7b)
 
 
 # Features
