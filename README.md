@@ -27,6 +27,9 @@ coding skills and take your projects to the next level.
 # Contributing
 - If you would like to contribute to the project, please fork the repository and submit a pull request.
 
+# Credits
+- Django Crispy Forms
+
 
 
 
