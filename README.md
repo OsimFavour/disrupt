@@ -18,7 +18,7 @@ coding skills and take your projects to the next level.
 - Bootstrap
 
 # Installation
-- Clone the reposiitory: `https://github.com/OsimFavour/disrupt`
+- Clone the repository: `https://github.com/OsimFavour/disrupt`
 - Install dependencies: `pip install -r requirements.txt`
 - Set up the database: `python manage.py migrate`
 - Start the server: `Python manage.py runserver`
