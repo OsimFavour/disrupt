@@ -9,7 +9,7 @@ coding skills and take your projects to the next level.
 
 # Features
 - User authentication: Users can create an account, log in, and log out.
-- Post and View stories: Users can create, edit, and delete their own stories and also get inspired by other senior developers who are ahead in their fields by viwing their own stories.
+- Post and View stories: Users can create, edit, and delete their own stories and also get inspired by other senior developers who are ahead in their fields by viewing their own stories.
 - Email and Password Reset: Users can reset passwords, in case they forgot their passwords.
 
 # Technologies
